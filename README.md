@@ -40,7 +40,7 @@ I’m passionate about **data-driven decision making** and love transforming raw
 ---
 
 ## 📫 Connect with Me  
-- 🌐 [LinkedIn](https://www.linkedin.com/in/carmina-yu-chu/) *(replace with your link)*  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/carmina-yu-chu/) 
 - 💻 [GitHub](https://github.com/carminachu)  
 
 ---
