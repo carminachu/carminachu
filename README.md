@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Carmina  
 
-📊 **Certified Data Analyst** based in **Sydney, Australia**  
+📊 **Certified Data Analyst** based in **Melbourne, Australia**  
 💻 Background in **Computer Science** (De La Salle University, Manila)  
 📚 Completed training at **The Data Analytics Institute (Sydney)**  
 🚀 Completed Internship as a **Data Quality & Insights Analyst** at **DataCareer.App**  
