@@ -28,7 +28,7 @@ I’m passionate about **data-driven decision making** and love transforming raw
 ---
 
 ## 📂 Independent Projects
-- 📦 [**The Look E-Commerce Analysis**](https://github.com/carminachu/the-look-e-commerce-analysis-report)
+- 📦 [**The Look E-Commerce Analysis**](https://github.com/carminachu/the-look-e-commerce-analysis-report)  
   An end-to-end data analytics project exploring The Look’s 2019–2025 e-commerce dataset to uncover insights in sales trends, product performance, customer segments, regional patterns, and marketing channels. 
 
 - ⭐ [**Northern Lights Air — Airline Loyalty Program Analysis**](https://github.com/carminachu/northern-light-air-loyalty-program)  
