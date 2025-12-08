@@ -11,10 +11,11 @@
 I’m passionate about **data-driven decision making** and love transforming raw datasets into meaningful insights. With a foundation in **Computer Science** and ongoing training in **Data Analytics**, I’m continuously building my skills in:  
 
 - **Data Cleaning & Wrangling**  
-- **Exploratory Data Analysis (EDA)**  
+- **Exploratory Data Analysis (EDA)**
+- **Data Quality & Insights** 
 - **Dashboard Development** (Excel, Power BI, Tableau)  
 - **SQL & Python for Data Analysis**  
-- **Data Quality & Insights**  
+ 
 
 ---
 
@@ -26,10 +27,31 @@ I’m passionate about **data-driven decision making** and love transforming raw
 
 ---
 
-## 📂 Current Projects  
-- 📊 **Kmart Sales Dashboard (Excel)** – Interactive sales dashboard with PivotTables, KPIs & Slicers  
-- 🗂️ **Hidden Job Market Data Roles (Research Project)** – Identifying hidden trends in data-related roles  
+## 📂 Independent Projects
+- 📦 [**The Look E-Commerce Analysis**](https://github.com/carminachu/the-look-e-commerce-analysis-report)
+  An end-to-end data analytics project exploring The Look’s 2019–2025 e-commerce dataset to uncover insights in sales trends, product performance, customer segments, regional patterns, and marketing channels. 
 
+- ⭐ [**Northern Lights Air — Airline Loyalty Program Analysis**](https://github.com/carminachu/northern-light-air-loyalty-program)  
+  A Power BI dashboard analyzing the impact of a 2018 loyalty promotion for Northern Lights Air (NLA). Highlights campaign effectiveness, demographic adoption, and summer flight booking trends.
+
+---
+
+## 📂 Learning Portfolio Projects    
+- 📊 [**Kmart Sales Dashboard**](https://github.com/carminachu/kmart-sales-dashboard)  
+  Interactive sales dashboard in Excel with PivotTables, KPIs & Slicers  
+
+- ⭐ [**Woolworths Rewards Dashboard**](https://github.com/carminachu/woolworths-rewards-dashboard)  
+  Power BI Report to monitor and analyse loyalty program performance for Woolworths Sydney stores.
+
+- 👥 [**BLACKMORES HR Analytics Dashboard**](https://github.com/carminachu/blackmore-hr-analytics-dashboard)  
+  Interactive Tableau dashboard to analyze employee attrition and workforce insights for the HR department of BLACKMORES.
+
+---
+
+## 📂 Internship Projects  
+- 🗂️ **Hidden Job Market Data Roles (Internship Project)** – Identifying hidden trends in data-related roles
+- 🗂️ **Enhancing DCA Platform Traffic through LinkedIn (Internship Project)** – Analysing LinkedIn Metrics of the company
+- 🗂️ **Analyzing DCA Performance through Google Analytics (Internship Project)** – Analysing the performance of the company site through GA data  
 ---
 
 ## 🌱 What I’m Working On  
