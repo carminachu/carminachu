@@ -1,9 +1,10 @@
 # 👋 Hi, I'm Carmina  
 
 📊 **Certified Data Analyst** based in **Melbourne, Australia**  
-💻 Background in **Computer Science** (De La Salle University, Manila)  
-📚 Completed training at **The Data Analytics Institute (Sydney)**  
-🚀 Completed Internship as a **Data Quality & Insights Analyst** at **DataCareer.App**  
+🎓 Bachelor’s background in **Computer Science** (De La Salle University, Manila)  
+📚 Completed professional training at **The Data Analytics Institute (Sydney)**  
+🚀 Internship experience as a **Data Quality & Insights Analyst** at **[DataCareer.App](https://www.datacareer.app/)** *(Sydney, Australia)*  
+💻 3+ years of professional experience as a **Junior Data Analyst** at **[MedCheck E-Commerce, Inc.](https://www.medcheck.com.ph/)** *(Makati, Philippines)*
 
 ---
 
@@ -49,9 +50,9 @@ I’m passionate about **data-driven decision making** and love transforming raw
 ---
 
 ## 📂 Internship Projects  
-- 🗂️ **Hidden Job Market Data Roles (Internship Project)** – Identifying hidden trends in data-related roles
-- 🗂️ **Enhancing DCA Platform Traffic through LinkedIn (Internship Project)** – Analysing LinkedIn Metrics of the company
-- 🗂️ **Analyzing DCA Performance through Google Analytics (Internship Project)** – Analysing the performance of the company site through GA data  
+- 🗂️ **Project 1: Hidden Job Market Data Roles (Internship Project)** – Identifying hidden trends in data-related roles
+- 🗂️ **Project 2:Enhancing DCA Platform Traffic through LinkedIn (Internship Project)** – Analysing LinkedIn Metrics of the company
+- 🗂️ **Project 3: Analyzing DCA Performance through Google Analytics (Internship Project)** – Analysing the performance of the company site through GA data  
 ---
 
 ## 🌱 What I’m Working On  
